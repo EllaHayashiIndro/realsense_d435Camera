@@ -1,0 +1,2 @@
+realsense2_description-master:realsense_gazebo_plugin
+-DCATKIN_DEVEL_PREFIX=/home/ellahayashi/Documents/realsense/devel -DCMAKE_INSTALL_PREFIX=/home/ellahayashi/Documents/realsense/install -G Unix Makefiles
